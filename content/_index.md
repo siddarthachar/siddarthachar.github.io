@@ -30,21 +30,20 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'Notable Highlights'
-      subtitle: ''
-      text: |-
-      - Mar '24 - Received APS Group Data Science IMPACT Award
-      - Jan '24 - Won the Dr. Jim Pommershiem Graudate Student Fellowship Award (University of Pittsburgh, Chemical Engineering)
-      - Dec '23 - Won the Dr. James Coull Memorial Best Student Award Fellowship (University of Pittsburgh, Chemical Engineering)
-      - Nov '23 - Received the AIChE Computational Molecular Science Engineering Forum (CoMSEF) Outstanding Graduate Student Award
-      - May '23 - Received Research Assistant of the Year Award (University of Pittsburgh, Chemical Engineering)
-      - Apr '23 - Won Advances in Research Computing Poster Award (Center for Research Computing, University of Pittsburgh)
-      - Nov '22 - Received graduate student fellowships and poster awards from the Pittsburgh Quantum Institute 
-
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: 'Notable Highlights'
+  #     subtitle: ''
+  #     text: |-
+  #     - Mar '24 - Received APS Group Data Science IMPACT Award
+  #     - Jan '24 - Won the Dr. Jim Pommershiem Graudate Student Fellowship Award (University of Pittsburgh, Chemical Engineering)
+  #     - Dec '23 - Won the Dr. James Coull Memorial Best Student Award Fellowship (University of Pittsburgh, Chemical Engineering)
+  #     - Nov '23 - Received the AIChE Computational Molecular Science Engineering Forum (CoMSEF) Outstanding Graduate Student Award
+  #     - May '23 - Received Research Assistant of the Year Award (University of Pittsburgh, Chemical Engineering)
+  #     - Apr '23 - Won Advances in Research Computing Poster Award (Center for Research Computing, University of Pittsburgh)
+  #     - Nov '22 - Received graduate student fellowships and poster awards from the Pittsburgh Quantum Institute 
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: papers
   #   content:
