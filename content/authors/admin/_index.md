@@ -205,5 +205,5 @@ awards:
 
 ## About Me
 
-My research interests include molecular simulation, statistical and quantum mechanics, scientific machine learning, material design and development, and molecular discovery. I am a postdoctoral scholar in the labs of [Dr. Andrew Ferguson](https://www.ferglab.com) and Dr. [Junhong Chen](https://www.junhongchengroup.pme.uchicago.edu) at [the Pritkzer School of Molecular Engineering](https://pme.uchicago.edu) at the Unviersity of Chicago. I received my Ph.D. in [Computation Modeling and Simulation](https://www.cmsp.pitt.edu) from the [University of Pittsburgh](https://www.pitt.edu) under the mentorship of [Dr. J. Karl Johnson](http://puccini.che.pitt.edu).
+My research interests include molecular simulation, statistical and quantum mechanics, scientific machine learning, material design and development, and molecular discovery. I am a postdoctoral scholar in the labs of [Dr. Andrew Ferguson](https://www.ferglab.com) and Dr. [Junhong Chen](https://www.junhongchengroup.pme.uchicago.edu) at [the Pritkzer School of Molecular Engineering at the Unviersity of Chicago](https://pme.uchicago.edu). I received my Ph.D. in [Computation Modeling and Simulation](https://www.cmsp.pitt.edu) from the [University of Pittsburgh](https://www.pitt.edu) under the mentorship of [Dr. J. Karl Johnson](http://puccini.che.pitt.edu).
 
